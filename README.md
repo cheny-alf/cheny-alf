@@ -1,6 +1,6 @@
 ### Hi there 👋
-####I’m currently working on baidu
-####👯 If your company is recruiting a Golang development engineer, please contact me immediately. This is my email address: 1285682410@qq.com
+I’m currently working on baidu
+👯 If your company is recruiting a Golang development engineer, please contact me immediately. This is my email address: 1285682410@qq.com
 <!--
 **cheny-alf/cheny-alf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
