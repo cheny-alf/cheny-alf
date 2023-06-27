@@ -1,6 +1,10 @@
 ## Hi there 👋
 🤔 I’m currently working on baidu<br>
 👯 If your company is currently recruiting a **Golang developer**<br>📫please contact me immediately at my email address: '**📫1285682410@qq.com**'.<br> 
+
+<p align="center">
+  <img src="header.jpg" width="500"/>
+</p>
 <!--
 **cheny-alf/cheny-alf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
